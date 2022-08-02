@@ -1,0 +1,12 @@
+.navigator-menu ul li{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 20px 0;
+}
+.navigator-menu ul li span{
+    padding-right: 25px;
+}
+.navigator-menu ul li span img{
+    margin-bottom: 8px;
+}
