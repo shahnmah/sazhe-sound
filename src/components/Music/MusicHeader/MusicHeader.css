@@ -4,13 +4,14 @@
 }
 .music-search-bar{
     position: relative;
+    width: 88%;
 }
 .music-search-bar input{
     border: 0;
     outline: 0;
     background-color: #F1F1F1;
     padding: 5px 0px 5px 70px;
-    padding-right: 70%;
+    padding-right: 50%;
     margin-left: 40px;
     position: relative;
 }
@@ -19,4 +20,34 @@
     top: 8px;
     left: 70px;
     font-size: 22px;
+}
+
+
+@media only screen and (max-width: 767px){
+    .music-search-bar input{
+        padding-right: 20%;
+    }
+    .music-img-container{
+        width: 150%;
+    }
+    .music-slider{
+        display: flex;
+        margin-right: 0;
+    }
+    .music-slider svg{
+        margin-right: 0px;
+    }
+}
+@media only screen and (max-width: 680px) and (min-width: 575px){
+    .music-search-bar input{
+        padding-right: 10%;
+    }
+}
+@media only screen and (max-width: 1073px){
+    .music-search-bar{
+        padding-right: 50%;
+    }
+    .music-slider{
+        display: flex;
+    }
 }

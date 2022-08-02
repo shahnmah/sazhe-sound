@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "singerImg": "https://i.ibb.co/dbxJFjw/singer-img.jpg",
+        "title": "Wildest Dreams",
+        "playingNumber": "63,637,378",
+        "time": "3:40",
+        "year": "1988"
+    },
+    {
+        "id": 2,
+        "singerImg": "https://i.ibb.co/qxJKVqj/pexels-mikotoraw-photographer-3769099.jpg",
+        "title": "See You Again",
+        "playingNumber": "64,754,399",
+        "time": "4:30",
+        "year": "1998"
+    },
+    {
+        "id": 3,
+        "singerImg": "https://i.ibb.co/gRX7DtX/pexels-elle-hughes-1680172.jpg",
+        "title": "Blank Space",
+        "playingNumber": "54,584,384",
+        "time": "5:00",
+        "year": "1995"
+    },
+    {
+        "id": 4,
+        "singerImg": "https://i.ibb.co/Mk82zqp/pexels-chloe-1043473.jpg",
+        "title": "Lean On",
+        "playingNumber": "25,637,542",
+        "time": "4:20",
+        "year": "2000"
+    },
+    {
+        "id": 5,
+        "singerImg": "https://i.ibb.co/f88J6B8/pexels-stefan-stefancik-91227.jpg",
+        "title": "Hello",
+        "playingNumber": "23,547,574",
+        "time": "5:20",
+        "year": "1999"
+    },
+    {
+        "id": 6,
+        "singerImg": "https://i.ibb.co/gRX7DtX/pexels-elle-hughes-1680172.jpg",
+        "title": "Let Her Go",
+        "playingNumber": "25,542,556",
+        "time": "3:20",
+        "year": "2005"
+    },
+    {
+        "id": 7,
+        "singerImg": "https://i.ibb.co/dbxJFjw/singer-img.jpg",
+        "title": "Faded",
+        "playingNumber": "25,618,254",
+        "time": "4:50",
+        "year": "2007"
+    }
+]

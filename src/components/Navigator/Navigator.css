@@ -1,21 +1,35 @@
-.navigator-menu ul li{
+.navigator-menu ul li {
     list-style: none;
     font-size: 18px;
     font-weight: 500;
     margin: 20px 0;
     color: #6c757d;
+    cursor: pointer;
 }
-.navigator-menu .menu-home{
+
+.navigator-menu .menu-home {
     color: #000;
 }
-.navigator-menu ul li span{
+
+.navigator-menu ul li span {
     padding-right: 25px;
 }
-.navigator-menu ul li span img{
+
+.navigator-menu ul li span img {
     margin-bottom: 8px;
 }
-.navigator-menu ul p{
+
+.navigator-menu ul p {
     color: #6c757d;
     font-weight: 500;
     margin: 20px 0 25px 0;
+}
+
+
+@media only screen and (max-width: 575px) {
+    .navigator-menu ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 100px;
+    }
 }
