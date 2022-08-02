@@ -3,10 +3,19 @@
     font-size: 18px;
     font-weight: 500;
     margin: 20px 0;
+    color: #6c757d;
+}
+.navigator-menu .menu-home{
+    color: #000;
 }
 .navigator-menu ul li span{
     padding-right: 25px;
 }
 .navigator-menu ul li span img{
     margin-bottom: 8px;
+}
+.navigator-menu ul p{
+    color: #6c757d;
+    font-weight: 500;
+    margin: 20px 0 25px 0;
 }

@@ -30,12 +30,14 @@ const Navigator = () => {
             </div>
             <div className="navigator-menu">
                 <ul>
-                    <li><span><img src={homeIcon} alt="" /></span>Home</li>
+                    <li className='menu-home'><span><img src={homeIcon} alt="" /></span>Home</li>
                     <li><span><img src={trendsIcon} alt="" /></span>Home</li>
                     <li><span><img src={libraryIcon} alt="" /></span>Home</li>
+                    <p><small>Discover</small></p>
                     <li><span><img src={discoverIcon} alt="" /></span>Home</li>
                     <li><span><img src={madeForYouIcon} alt="" /></span>Home</li>
                     <li><span><img src={dailyMixIcon} alt="" /></span>Home</li>
+                    <p><small>Your Collection</small></p>
                     <li><span><img src={likedSongsIcon} alt="" /></span>Home</li>
                     <li><span><img src={favoriteArtistIcon} alt="" /></span>Home</li>
                     <li><span><img src={playlistIcon} alt="" /></span>Home</li>

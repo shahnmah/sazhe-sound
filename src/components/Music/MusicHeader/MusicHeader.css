@@ -1,0 +1,22 @@
+.music-header-container .music-slider svg{
+    font-size: 30px;
+    margin-right: 15px;
+}
+.music-search-bar{
+    position: relative;
+}
+.music-search-bar input{
+    border: 0;
+    outline: 0;
+    background-color: #F1F1F1;
+    padding: 5px 0px 5px 70px;
+    padding-right: 70%;
+    margin-left: 40px;
+    position: relative;
+}
+.music-search-bar span svg{
+    position: absolute;
+    top: 8px;
+    left: 70px;
+    font-size: 22px;
+}
